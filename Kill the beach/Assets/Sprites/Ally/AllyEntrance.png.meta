@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: a976a03e4197a6547b8bbc19c6fc60ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3833993248869282737
+    second: AllyEntrance_0
+  - first:
+      213: 2190468734558251450
+    second: AllyEntrance_1
+  - first:
+      213: 193759469704302194
+    second: AllyEntrance_2
+  - first:
+      213: 5624994528172370674
+    second: AllyEntrance_3
+  - first:
+      213: -8984658613752549473
+    second: AllyEntrance_4
+  - first:
+      213: 5398338557352134230
+    second: AllyEntrance_5
+  - first:
+      213: 1950408389399709800
+    second: AllyEntrance_6
+  - first:
+      213: -1540895850765562143
+    second: AllyEntrance_7
+  - first:
+      213: -7732525415917886300
+    second: AllyEntrance_8
+  - first:
+      213: 7566886985640981267
+    second: AllyEntrance_9
+  - first:
+      213: 9175600568868476607
+    second: AllyEntrance_10
+  - first:
+      213: -7806501105442025334
+    second: AllyEntrance_11
+  - first:
+      213: -4343373470681486365
+    second: AllyEntrance_12
+  - first:
+      213: -4213865477451448568
+    second: AllyEntrance_13
+  - first:
+      213: 1830963374100867122
+    second: AllyEntrance_14
+  - first:
+      213: -943723984511056233
+    second: AllyEntrance_15
+  - first:
+      213: 6007354930250132664
+    second: AllyEntrance_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AllyEntrance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a388f7649327fa41880479b7c8f7b74
+      internalID: 3833993248869282737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3a717bedb2554aab08f8c15ce7ae8
+      internalID: 2190468734558251450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2203272190676a478c186c980d9512e
+      internalID: 193759469704302194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_3
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee621ac39281434f823b75211ec71d7
+      internalID: 5624994528172370674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672b20aa910c4c4498effd6e2e98942
+      internalID: -8984658613752549473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_5
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1771.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36965c11c4d0c4c46b81d0d7e3df5467
+      internalID: 5398338557352134230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b53a7441ee70541869d90bd62ee970
+      internalID: 1950408389399709800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e8b152e422b4648abefe5db2f279dc
+      internalID: -1540895850765562143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_8
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1dc1f59c9a914b8b1e4d24f01b113
+      internalID: -7732525415917886300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_9
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10858505d126b489a10133b62384c1
+      internalID: 7566886985640981267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63abb1bbccaa3884b8975c5b405fc394
+      internalID: 9175600568868476607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_11
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1181.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f74c19e5f6314eaaf819a766f6448
+      internalID: -7806501105442025334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f23b39acb227447ba31cdf6d43c236
+      internalID: -4343373470681486365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 591.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e4744776f0bd4885cef2bb974099a
+      internalID: -4213865477451448568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_14
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 591.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836fa046daff60745953c863cac3cfdb
+      internalID: 1830963374100867122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllyEntrance_15
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 591.5
+        width: 590.5
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e8b5ceaae0904c818e90a1e71bfc2
+      internalID: -943723984511056233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d57469f6307218499b2d40252f035b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

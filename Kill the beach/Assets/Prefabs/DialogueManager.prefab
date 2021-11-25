@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1495368319991030089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1495368319991030094}
+  - component: {fileID: 1495368319991030095}
+  m_Layer: 0
+  m_Name: DialogueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1495368319991030094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495368319991030089}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1495368319991030095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495368319991030089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097e7a3309155eb4387126713084b65a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TextDisplay: {fileID: 0}
+  DialogIndex: 0
+  Sentences:
+  - You find yourself relaxed at the beach
+  - The red sun, the crystal blue sea, the gold sand
+  - 'Nothing could interrupt your only day off... Sunday '
+  - .......
+  - .......
+  - Bzzz Bzzz Bzzzz
+  - It's just a tiny mosquito..
+  - 
+  - A good mosquito is a DEAD mosquito!!!!
+  - 
+  - 
+  - As I was saying, nothing could interrupt your peaceful day off...
+  - What's that noise again?
+  - They are blaming you for starting the global warming with the mosquito repellent
+  - Are you gonna let them ruin your day off?
+  - 
+  - Someone has to teach them a leason!!!
+  - 
+  - 
+  - "Police Police Police! \nYou hear them shouting as they're running away from
+    you"
+  - Sirens echo through the sandy beach
+  - "\rPut your hands up, you're under arrest!!"
+  - What for, Officer?
+  - For disturbing the peace of innocent people
+  - Now put your hands up, before we shoot!!
+  - They deserve what they got
+  - This is madness!!
+  - 
+  - You won't take me alive!!
+  - 
+  - 
+  - That was easy
+  - I wasn't expecting souvlaki for breakfast
+  - 'Now.. Where was I? '
+  - On the count of 3, everyone shoot!!
+  - "Wait what?\t"
+  - 1...
+  - Are they aiming at me?
+  - 2...
+  - What should I do?
+  - 
+  - 3...!!
+  - 
+  - 
+  - I think the universe is plotting against me
+  - And all of this started because of a mosquito
+  - Stupid mosquitos!!
+  - Stupid people!!
+  - Stupid police!!
+  - Stupid army!!
+  - 
+  - 'Is it the police again? '
+  - 'We came to bring peace '
+  - What are you even doing here?
+  - 'We came to bring peace '
+  - But... You are 100000 miles from home
+  - 'We came to bring peace '
+  - That doesnt make any sense
+  - We only want peace
+  - We've told you a Missile Times
+  - Did he just say Missile?
+  - Fear not, the cavalry is here
+  - You may need an ally against the System
+  - And I'm the one that they fear the most!!
+  - 'You can''t stop now..
+
+    Do you really need his help?'
+  - 
+  - Kill those bitches!!!
+  - 
+  - 
+  - 'I don''t see anyone else coming '
+  - Wait...
+  - Where is the final Boss??
+  - There isn't one
+  - "Are you kidding me? \nYou couldn't just code a final Boss?"
+  - Nope
+  - What a pathetic Game Designer you are!!
+  - You couldn't handle him
+  - I killed everyone on my path
+  - Yes, but you couldn't kill the final Boss anyway
+  - 'Now just take a rest '
+  - 
+  - You really need to rest now
+  - 
+  - The whole point was for you to enjoy your Sunday
+  - 
+  - 'The game has to end '
+  - 
+  - Ok bye
+  - 
+  - 
+  TypingSpeed: 0.06
+  ContinueButton: {fileID: 0}
+  DialogWindow: {fileID: 0}
+  Left: {fileID: 0}
+  Right: {fileID: 0}
+  LeftBtn: 0
+  RightBtn: 0
+  Ally: {fileID: 2400634200731340979, guid: f39168a1a09ebe84f83fdd11b0075ddf, type: 3}
+  AllyEntrance: {fileID: 7069152565773026625, guid: 7ca211e214c2ead4fbf1179b0c67af25,
+    type: 3}
+  PlayerPos: {fileID: 0}
+  Player: {fileID: 0}
+  PlayerIdle: {fileID: 0}
+  InGameUI: {fileID: 0}
+  Instructions: {fileID: 0}
+  UpgradeSystem: {fileID: 0}
+  PlayerAv: {fileID: 0}
+  NarratorAv: {fileID: 0}
+  MosquitoAv: {fileID: 0}
+  PoliceAv: {fileID: 0}
+  SoliderAv: {fileID: 0}
+  UsaAv: {fileID: 0}
+  AllyAv: {fileID: 0}
+  PlayerScr: {fileID: 0}
+  ColaCan: {fileID: 6734519611287443844, guid: baa7e0c6fc789764c8304ef7811b6992, type: 3}
+  TankBullet: {fileID: 8966090398974983901, guid: 3e4abed5a0084f747adcc6470aa08575,
+    type: 3}
+  SleepingDart: {fileID: 7304124063182082434, guid: 6fdf4ab8b36b14949bd029541c53e31f,
+    type: 3}
+  Siren: {fileID: 3979554085638333531, guid: f274594a120cfb4468dc736906376f84, type: 3}
+  BlackScreen: {fileID: 0}
+  Arrested: {fileID: 0}
+  GameOverOptions: {fileID: 0}
+  CameraObj: {fileID: 0}
+  CreditsObj: {fileID: 0}
+  PublicScripts: {fileID: 0}
+  PlayerSleep: {fileID: 894140253327755367, guid: a2443fe0738748b48bc8fb02cd8d58db,
+    type: 3}
+  Checkpoints: {fileID: 0}

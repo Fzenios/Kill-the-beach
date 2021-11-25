@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 8c68cc92ae8ca874681aaaefe82975c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8791713211993461174
+    second: BossPhase2_0
+  - first:
+      213: 5095116313624281967
+    second: BossPhase2_1
+  - first:
+      213: 3065027048308627491
+    second: BossPhase2_2
+  - first:
+      213: 1686982385189943627
+    second: BossPhase2_3
+  - first:
+      213: 7509735894912465235
+    second: BossPhase2_4
+  - first:
+      213: -4651096517004330812
+    second: BossPhase2_5
+  - first:
+      213: 2132964490579674361
+    second: BossPhase2_6
+  - first:
+      213: 9152420255439706827
+    second: BossPhase2_7
+  - first:
+      213: 4796050606765000239
+    second: BossPhase2_8
+  - first:
+      213: 3870001178434970060
+    second: BossPhase2_9
+  - first:
+      213: -3202416921395530994
+    second: BossPhase2_10
+  - first:
+      213: 9041755412702741519
+    second: BossPhase2_11
+  - first:
+      213: 2162448827808978160
+    second: BossPhase2_12
+  - first:
+      213: 6497798733603770287
+    second: BossPhase2_13
+  - first:
+      213: -7403214854751236233
+    second: BossPhase2_14
+  - first:
+      213: 2391766241403965901
+    second: BossPhase2_15
+  - first:
+      213: 5235839778371094011
+    second: BossPhase2_16
+  - first:
+      213: 6967195045706738775
+    second: BossPhase2_17
+  - first:
+      213: 5730233596437021043
+    second: BossPhase2_18
+  - first:
+      213: 3052928139271227800
+    second: BossPhase2_19
+  - first:
+      213: -1287306966522419834
+    second: BossPhase2_20
+  - first:
+      213: 9084385908311429808
+    second: BossPhase2_21
+  - first:
+      213: 3966822687953139759
+    second: BossPhase2_22
+  - first:
+      213: -2855304434947488286
+    second: BossPhase2_23
+  - first:
+      213: 4919707679112886504
+    second: BossPhase2_24
+  - first:
+      213: -1987322696316223596
+    second: BossPhase2_25
+  - first:
+      213: -4184004696948279097
+    second: BossPhase2_26
+  - first:
+      213: 4851743926276055778
+    second: BossPhase2_27
+  - first:
+      213: -3317616419106539195
+    second: BossPhase2_28
+  - first:
+      213: -1643876695436199613
+    second: BossPhase2_29
+  - first:
+      213: -5494669366220095498
+    second: BossPhase2_30
+  - first:
+      213: 8095016602986754975
+    second: BossPhase2_31
+  - first:
+      213: -5353609321972335327
+    second: BossPhase2_32
+  - first:
+      213: 688904930700835110
+    second: BossPhase2_33
+  - first:
+      213: -7377042723651579445
+    second: BossPhase2_34
+  - first:
+      213: 6484831622895643639
+    second: BossPhase2_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossPhase2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef704eb683a55fe48be0b9a4e1dc19be
+      internalID: -8791713211993461174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_1
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf2e89a20c1224f909c6d13e457a04
+      internalID: 5095116313624281967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_2
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923331e5a2d28c44895fb0861255bebe
+      internalID: 3065027048308627491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_3
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d02135889fc22478680a9d003e79b4
+      internalID: 1686982385189943627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_4
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc40ad1dcc6efa4498fb732216f87ec
+      internalID: 7509735894912465235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_5
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 5905.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb853ae9602e8a34a970c75bfbd2286a
+      internalID: -4651096517004330812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32038e786db1940a512fd58416a67c
+      internalID: 2132964490579674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92768a0d0c663ee49b06835ed05b7cb5
+      internalID: 9152420255439706827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_8
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392e49933a8975419480a754aa88e16
+      internalID: 4796050606765000239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_9
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e3a01610717a408f24d41a31f74b0
+      internalID: 3870001178434970060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_10
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b3d87621276540b530c3ae2a487a1
+      internalID: -3202416921395530994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_11
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 4724.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef82b409f35f3940a0d477dd2c9abbb
+      internalID: 9041755412702741519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7d9c526bb7d546965e5230fd31451
+      internalID: 2162448827808978160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_13
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc1bbd2626e90448dbfaf86ef914b7
+      internalID: 6497798733603770287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_14
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7091506e528ee49ad346737198b1bf
+      internalID: -7403214854751236233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_15
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753dd2a26e287241ba126f65e0cf9bc
+      internalID: 2391766241403965901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_16
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a801b6f5b9552e344b33456b29b1caaa
+      internalID: 5235839778371094011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_17
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 3543.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f935d3684d8d210499d4f3cab8de4dc3
+      internalID: 6967195045706738775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebaf588c19c4a94b990ed07b9a39e05
+      internalID: 5730233596437021043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_19
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bd2d0f6c4339a44a0b4f7018675650
+      internalID: 3052928139271227800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_20
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef6513f19c38a468a50f5df2c56795
+      internalID: -1287306966522419834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_21
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c06d0182f781b4db62b68878a9d675
+      internalID: 9084385908311429808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_22
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c2df7b358f5746bef47881144e212
+      internalID: 3966822687953139759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_23
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 2362.8335
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b7afcb739ec564880904b6df6508fc
+      internalID: -2855304434947488286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210b6eb56a87184e944fe248930f817
+      internalID: 4919707679112886504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_25
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01447d517da832845980c646b0303f91
+      internalID: -1987322696316223596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_26
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad543b82e32c82b4390a162264b93d79
+      internalID: -4184004696948279097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_27
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53d28bbd498164fb0391b9ed31698f
+      internalID: 4851743926276055778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_28
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3d456026a51a428967b9de7a6571a
+      internalID: -3317616419106539195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_29
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 1181.8334
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eda6cb8596fce47b322b9a02dc8bab
+      internalID: -1643876695436199613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhase2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.833374
+        width: 1181.1666
+        height: 1181.1666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e235d497e9ba4c9ef6d7cb59fd22d
+      internalID: -5494669366220095498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a435234062e76fe4f97a21f2f2495061
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

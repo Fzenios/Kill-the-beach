@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 9dd94f2308289ef42b7cd58143d811d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4038042536155454984
+    second: UsaTankDeath_0
+  - first:
+      213: 1754841475237034919
+    second: UsaTankDeath_1
+  - first:
+      213: 7966391960695115380
+    second: UsaTankDeath_2
+  - first:
+      213: -2944459444411877521
+    second: UsaTankDeath_3
+  - first:
+      213: -1258523591853939165
+    second: UsaTankDeath_4
+  - first:
+      213: -3522337935742586648
+    second: UsaTankDeath_5
+  - first:
+      213: 6514481655814774558
+    second: UsaTankDeath_6
+  - first:
+      213: -4815418028837323161
+    second: UsaTankDeath_7
+  - first:
+      213: 6186110992530213275
+    second: UsaTankDeath_8
+  - first:
+      213: -4659563761856585444
+    second: UsaTankDeath_9
+  - first:
+      213: 3888959834944946299
+    second: UsaTankDeath_10
+  - first:
+      213: 2035786819754560885
+    second: UsaTankDeath_11
+  - first:
+      213: -7091269394655376770
+    second: UsaTankDeath_12
+  - first:
+      213: -305991506378591928
+    second: UsaTankDeath_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UsaTankDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1771.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54bb640071bca48ba8cdb8f7b5b1cc
+      internalID: -4038042536155454984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1771.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe5a9ec371def41af63125a0a23102
+      internalID: 1754841475237034919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1771.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd1a16c5f7db74aa418189bb55f53c
+      internalID: 7966391960695115380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_3
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1771.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc939be4809534a87296d8c19e6bf8
+      internalID: -2944459444411877521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1771.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb2103b97a2744b89283b8ed5482b2
+      internalID: -1258523591853939165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6c9f0df657be43b71f3891559adef
+      internalID: -3522337935742586648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1181.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8de38a53f2ac4882e7b8b222795be
+      internalID: 6514481655814774558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1181.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2597ce801f8b4696c57f2f946b741
+      internalID: -4815418028837323161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_8
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1181.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923d23026e859349b45881491136da1
+      internalID: 6186110992530213275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_9
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1181.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790afec4f93589d4081a6335bfa4e725
+      internalID: -4659563761856585444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a7592c5d4d434a8dd4afb48d85343
+      internalID: 3888959834944946299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaTankDeath_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 591.5
+        width: 590.6
+        height: 590.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982daac4c85fde347beab769b2a700b6
+      internalID: 2035786819754560885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec80eb0bac71bf64f96e5f7e323a2152
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: a055fa2e94507c740ae08d1bc47908d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2648527993448924471
+    second: BossEntrance_0
+  - first:
+      213: 2466597092565535312
+    second: BossEntrance_1
+  - first:
+      213: -6951532345340217270
+    second: BossEntrance_2
+  - first:
+      213: 7093733337542826160
+    second: BossEntrance_3
+  - first:
+      213: -7959884831354231459
+    second: BossEntrance_4
+  - first:
+      213: 82033957195389250
+    second: BossEntrance_5
+  - first:
+      213: 3396471025373107685
+    second: BossEntrance_6
+  - first:
+      213: 2529371359963539870
+    second: BossEntrance_7
+  - first:
+      213: 7117254665955943086
+    second: BossEntrance_8
+  - first:
+      213: -6410210640064453523
+    second: BossEntrance_9
+  - first:
+      213: 5214319269597522543
+    second: BossEntrance_10
+  - first:
+      213: 3838512856703126735
+    second: BossEntrance_11
+  - first:
+      213: 369546380740800447
+    second: BossEntrance_12
+  - first:
+      213: -6980190665407715918
+    second: BossEntrance_13
+  - first:
+      213: 9146455662850009070
+    second: BossEntrance_14
+  - first:
+      213: 5968558355085370010
+    second: BossEntrance_15
+  - first:
+      213: -7328065157748152343
+    second: BossEntrance_16
+  - first:
+      213: 2573557740076861986
+    second: BossEntrance_17
+  - first:
+      213: -4192033638417811673
+    second: BossEntrance_18
+  - first:
+      213: 9126844933000025174
+    second: BossEntrance_19
+  - first:
+      213: 4435428999875832209
+    second: BossEntrance_20
+  - first:
+      213: -7630454395650864211
+    second: BossEntrance_21
+  - first:
+      213: -4938766640797667250
+    second: BossEntrance_22
+  - first:
+      213: 2268305851690030163
+    second: BossEntrance_23
+  - first:
+      213: 5900699955329319934
+    second: BossEntrance_24
+  - first:
+      213: -3031594558118864883
+    second: BossEntrance_25
+  - first:
+      213: -3941003301793685387
+    second: BossEntrance_26
+  - first:
+      213: -1153746305728752950
+    second: BossEntrance_27
+  - first:
+      213: 1319860413650948239
+    second: BossEntrance_28
+  - first:
+      213: 9069928572062070929
+    second: BossEntrance_29
+  - first:
+      213: -7417549930417717480
+    second: BossEntrance_30
+  - first:
+      213: 8176231962801751241
+    second: BossEntrance_31
+  - first:
+      213: 7073183281831460554
+    second: BossEntrance_32
+  - first:
+      213: 6965218122903337342
+    second: BossEntrance_33
+  - first:
+      213: 2514891056962878678
+    second: BossEntrance_34
+  - first:
+      213: -6563702489744121200
+    second: BossEntrance_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossEntrance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d565aa94f9bd34cbc3271a35b18330
+      internalID: 2648527993448924471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa00e64f407dc724d9a04678420fa864
+      internalID: 2466597092565535312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd39f990716e9469a814d5553acf64
+      internalID: -6951532345340217270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd0b92c3889aa40a8a17d5a64e9fd8
+      internalID: 7093733337542826160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b001d7ed5d3b4aa672479055917bd
+      internalID: -7959884831354231459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1417.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee6c5b421359846aa068dfe44065fd
+      internalID: 82033957195389250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfab125c97a488499f8d55e926aee42
+      internalID: 3396471025373107685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f98a4d5d8f534093be4d903526e80
+      internalID: 2529371359963539870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab736fbc967aa3643a13bcd335a3f27f
+      internalID: 7117254665955943086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec81a854a01484b9428eedb2eb8681
+      internalID: -6410210640064453523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d99af748203b142aa9af5f4a109687
+      internalID: 5214319269597522543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_11
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1134.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73875ae479881243809e7824cfae302
+      internalID: 3838512856703126735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d4f037bcbc914991714be6aba434e
+      internalID: 369546380740800447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7be339a019dd84c931daf5405a0b49
+      internalID: -6980190665407715918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24722310eab232c49842a7469fc5fa17
+      internalID: 9146455662850009070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2d659e6252ee45bbbad6cc2991e3e
+      internalID: 5968558355085370010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e789da1453dc64bb62200bf6bb2b40
+      internalID: -7328065157748152343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 851.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae3f57b217e684b96c0792ccc235da
+      internalID: 2573557740076861986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e1176a35c2584f9b6285056f3d34f
+      internalID: -4192033638417811673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f87539aaa757148a14b1f298098270
+      internalID: 9126844933000025174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644399b48136384893c51f962738911
+      internalID: 4435428999875832209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25a22226526c54095c1b42f3a4ac45
+      internalID: -7630454395650864211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb021bc2ef88e448d8f7beb5f5b42c
+      internalID: -4938766640797667250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 568.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f38aa72271724f9d47be3d9ca5086
+      internalID: 2268305851690030163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f8aad7a2d94ed43925bf55e516637b
+      internalID: 5900699955329319934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc311a3bc13f8488c575e7f7abce16
+      internalID: -3031594558118864883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8f214f5d164c4a9dfbe64e1acc276
+      internalID: -3941003301793685387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461aa3adf621c63448b77676d532f7e4
+      internalID: -1153746305728752950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590f771d6277234bb43536cf8bc0bee
+      internalID: 1319860413650948239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 285.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6281c67c71ee277459cc77fc7c1c22b5
+      internalID: 9069928572062070929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc4907b611b1542a60b8035c017d39
+      internalID: -7417549930417717480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e4237c6e925a40b524943fcb25d44
+      internalID: 8176231962801751241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09e6a51f56d8b4ca212770c08548e0
+      internalID: 7073183281831460554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e65f4a899e48a45b6fb82c3304d742
+      internalID: 6965218122903337342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_34
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca04d31fdaed6d42af93a7b2dbb9ea8
+      internalID: 2514891056962878678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEntrance_35
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2.5
+        width: 283.5
+        height: 283.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54fea24a6aeade4786e18fd5d557bda
+      internalID: -6563702489744121200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09286361893a91b4194470fa26329a3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

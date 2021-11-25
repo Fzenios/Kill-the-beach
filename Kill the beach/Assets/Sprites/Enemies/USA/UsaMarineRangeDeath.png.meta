@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 5621e9b25dca83340a9c316de812afb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1954213387527131302
+    second: UsaMarineRangeDeath_0
+  - first:
+      213: -2234421250160538543
+    second: UsaMarineRangeDeath_1
+  - first:
+      213: -937393791435687276
+    second: UsaMarineRangeDeath_2
+  - first:
+      213: -1935854614194835044
+    second: UsaMarineRangeDeath_3
+  - first:
+      213: -8838054756192580244
+    second: UsaMarineRangeDeath_4
+  - first:
+      213: 4473318883047954567
+    second: UsaMarineRangeDeath_5
+  - first:
+      213: -2379581768784350754
+    second: UsaMarineRangeDeath_6
+  - first:
+      213: -2935181495918638232
+    second: UsaMarineRangeDeath_7
+  - first:
+      213: -3915256056441562131
+    second: UsaMarineRangeDeath_8
+  - first:
+      213: 5471490946120855482
+    second: UsaMarineRangeDeath_9
+  - first:
+      213: 6315186310530044132
+    second: UsaMarineRangeDeath_10
+  - first:
+      213: 4282832422654770291
+    second: UsaMarineRangeDeath_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2362
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2cd468774b5a4f868b25a53284234
+      internalID: 1954213387527131302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2362
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713fee7fe6e6b094d9d9b05f973b6d44
+      internalID: -2234421250160538543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 2362
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290257fad76e5bc4da946a3039a1d7d9
+      internalID: -937393791435687276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_3
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2362
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e1948426fdef445858c97bce00c7d3
+      internalID: -1935854614194835044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_4
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 2362
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7408be1253f4c4186d7e5ba5e73b22
+      internalID: -8838054756192580244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d212ceb4fbd6ab47a874895430abcc8
+      internalID: 4473318883047954567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1181
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff87a277898ba40a8ed1e3b891e391
+      internalID: -2379581768784350754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_7
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1181
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1b2c616905ed428c8765a49f53642
+      internalID: -2935181495918638232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_8
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 1181
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9640d4af5ed1f24590cbdbb8e76fd7e
+      internalID: -3915256056441562131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_9
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 1181
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c77939303425e4aa2748731437e0cb
+      internalID: 5471490946120855482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0b69efad153b743b886ebffe01166b
+      internalID: 6315186310530044132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UsaMarineRangeDeath_11
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 0
+        width: 1181.2
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa570a7c65d8f4dbdd32553cb0e2cf
+      internalID: 4282832422654770291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1819ff01a32ef743aee4bed5a6c168a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
